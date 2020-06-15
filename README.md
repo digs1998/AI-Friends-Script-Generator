@@ -32,4 +32,8 @@ Using Recurrent Neural Network architecture for predicting new script for Famous
 
 **Predictions**
 
-![prediction](
+![prediction](Capture1.PNG)
+
+**Although after 30 iterations still there are some grammatical errors maybe more number of iterations can be considered as an alternative. Hope this helps you out!!**
+
+***Do upvote my notebook on Kaggle and comment if any changes can be made, Happy learning!!***
